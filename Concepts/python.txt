@@ -1,0 +1,64 @@
+1) python is a dynamically typed interpreted langauge
+
+2) comments in python is the lines which we write is ignored by the interpreter and
+we write to make us as well as others about the code what we have written
+
+#to comment a line in python press control + /
+
+''' mutliline comments '''
+
+3) variables
+variable is a container to store values .
+** variables is a reserved  memory location to store values
+** variable names are case-sensitive
+** case-sensitive ->  This means that the language treats
+uppercase and lowercase characters differently.
+
+example- arpita = 22
+         Arpita = 23
+
+         
+Q) can you assign different values to a variable
+
+Yes, in Python, we can assign different values to a variable
+at different points in our program. Python variables are dynamic,
+meaning they can change types and values throughout the execution
+of the program.
+
+a) integer
+b) float
+c) string
+d) boolean
+e) none
+
+
+
+4) to check datatype we use
+type(variable_name)
+print(type(None))
+o/p - <class 'NoneType'>
+
+
+5)Typecasting
+changing variable from one datatype to another datatype
+
+
+6) Data structures in python
+
+a) list -> A list is a data structure in Python that is a mutable,
+or changeable, ordered sequence of elements
+
+b) tuples -> A tuple is a collection which is ordered and unchangeable.
+
+c) sets -> Set is a data type in python used to store several items in a single variable
+It is a collection that is written with curly brackets and is both unindexed and unordered.
+
+d) dict -> Python's efficient key/value hash table structure is called a "dict". The contents
+of a dict can be written as a series of key:value pairs within braces { },
+e.g. dict = {key1:value1, key2:value2, ... }.
+
+
+# OOPS
+
+1) class -> class is like a template which is used to make object
+2) object
